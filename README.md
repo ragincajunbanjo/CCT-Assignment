@@ -8,7 +8,9 @@
 - I did not include secrets becuase in an IAM identity based scenario, tokens and sts are best practices for applying AWS infrastructure changes.
 
 <h3> Suggested Iterations </h3>
+
 - Create IAM Execution Role/Policy with attachments
 - Create Cloudwatch Metric Alarm for Container Utilization
 - Create Autoscaling Policy
 - Create a Launch Configuration
+  
